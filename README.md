@@ -14,6 +14,8 @@
 </div>
 
 # About
+Radon will be a modification of Argon that offers improvements and additional features
+
 Argon is a simple two-way sync plugin for Roblox and extension for Visual Studio Code allowing developers not only sync code with ease, but any other instance as well with no need to re-generate project. It also provides tons of tools and quality of life improvements Argon is an alternative for Rojo not its replacement!
 
 # Links
@@ -37,22 +39,16 @@ Argon is a simple two-way sync plugin for Roblox and extension for Visual Studio
 * Fast setup
 
 # Wiki
-## [Home](https://github.com/DervexHero/Argon/wiki)
+## [Home](https://github.com/plasma-node/Radon/wiki)
 
 * **Getting Started**
-  * [Installation](https://github.com/DervexHero/Argon/wiki/Installation)
-  * [Roblox plugin explained](https://github.com/DervexHero/Argon/wiki/Roblox-Plugin-Explained)
-  * [VSC extension explained](https://github.com/DervexHero/Argon/wiki/VSC-Extension-Explained)
-  * [Setting up the project](https://github.com/DervexHero/Argon/wiki/Setting-Up-The-Project)
-
-* **Usage**
-  * [Managing instances](https://github.com/DervexHero/Argon/wiki/Managing-Instances)
-  * [Syncing code](https://github.com/DervexHero/Argon/wiki/Syncing-Code)
-  * [Porting projects](https://github.com/DervexHero/Argon/wiki/Porting-Projects)
-  * [Filtering options](https://github.com/DervexHero/Argon/wiki/Filtering-Options)
-
+  * [Installation](https://github.com/plasma-node/Radon/wiki/Installation)
+  * [Roblox plugin explained](https://github.com/plasma-node/Radon/wiki/Roblox-Plugin-Explained)
+  * [VSC extension explained](https://github.com/plasma-node/Radon/wiki/VSC-Extension-Explained)
+  * [Setting up the project](https://github.com/plasma-node/Radon/wiki/Setting-Up-The-Project)
+  * 
 # Demo
 [![Demo Video](https://raw.githubusercontent.com/DervexHero/Argon/main/VSC%20Extension/assets/Demo.png)](https://youtu.be/yvnleYgYaO0)
 
 # Changelog
-### All changes are documented in this [CHANGELOG.md](https://github.com/DervexHero/Argon/blob/main/VSC%20Extension/CHANGELOG.md) file
+### All changes are documented in this [CHANGELOG.md](https://github.com/plasma-node/Radon/blob/main/VSC%20Extension/CHANGELOG.md) file
