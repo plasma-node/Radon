@@ -2,18 +2,7 @@
   <img alt='Argon Logo' src='https://raw.githubusercontent.com/DervexHero/Argon/main/VSC%20Extension/assets/LogoName.png'>
 </div>
 
-<div align='center'>
-  <img alt='Hours Used' src='https://img.shields.io/endpoint?url=https%3A%2F%2Fargonstatsapi.web.app%2FhoursUsed'>
-  <img alt='Lines Synced' src='https://img.shields.io/endpoint?url=https%3A%2F%2Fargonstatsapi.web.app%2FlinesSynced'>
-  <img alt='Files Synced' src='https://img.shields.io/endpoint?url=https%3A%2F%2Fargonstatsapi.web.app%2FfilesSynced'>
-</div>
-
-<div align='center'>
-  <img alt='Projects Ported' src='https://img.shields.io/endpoint?url=https%3A%2F%2Fargonstatsapi.web.app%2FprojectsPorted'>
-  <img alt='Sessions Started' src='https://img.shields.io/endpoint?url=https%3A%2F%2Fargonstatsapi.web.app%2FsessionsStarted'>
-</div>
-
-# About
+# Radon
 Radon will be a modification of Argon that offers improvements and additional features
 
 Argon is a simple two-way sync plugin for Roblox and extension for Visual Studio Code allowing developers not only sync code with ease, but any other instance as well with no need to re-generate project. It also provides tons of tools and quality of life improvements Argon is an alternative for Rojo not its replacement!
